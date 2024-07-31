@@ -5,11 +5,8 @@ Hi there! I am an enthusiastic explorer of new things of the world and currently
 I have a good understanding of 💻 **C++**, **Python**, and Git, along with some experience in terminal operations.<br />
 My passion for continuous learning drives me to constantly expand my skill set. Lately, I've been diving into ⚛️React to stay ahead in the tech game.
 
-<br />
 When I'm not coding, I enjoy listening to music and watching anime girls to unwind and destress.
-
-
-<br />
+<br /><br />
 My GitHub is a reflection of my curiosity and dedication to technology. Feel free to explore my projects.
 <br />
 Let's build something amazing together! 🚀
