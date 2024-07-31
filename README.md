@@ -7,7 +7,7 @@ My passion for continuous learning drives me to constantly expand my skill set. 
 
 When I'm not coding, I enjoy listening to music and watching anime girls to unwind and destress.
 <br /><br />
-My GitHub is a reflection of my curiosity and dedication to technology. Feel free to explore my projects.
+My GitHub is a reflection of my curiosity. Feel free to explore my projects!
 <br />
 Let's build something amazing together! 🚀
 <br />
