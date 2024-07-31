@@ -1,16 +1,21 @@
-## Hi there 👋
+## Welcome to My Little Random Wonderland 🌟
+Hi there! I am an enthusiastic explorer of new things of the world and currently working as an R&D Software Engineer. Here's a bit about me:
 
-<!--
-**moybei/moybei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Always Learning, Continuous Exploration 🔍
+I have a good understanding of 💻 **C++**, **Python**, and Git, along with some experience in terminal operations.<br />
+My passion for continuous learning drives me to constantly expand my skill set. Lately, I've been diving into ⚛️React to stay ahead in the tech game.
 
-Here are some ideas to get you started:
+<br />
+When I'm not coding, I enjoy listening to music and watching anime girls to unwind and destress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+My GitHub is a reflection of my curiosity and dedication to technology. Feel free to explore my projects.
+<br />
+Let's build something amazing together! 🚀
+
+![alt text]([http://url/to/img.png](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png))
+
+---
+
+> "My Little Random Wonderland" - A place where curiosity leads to endless possibilities.
