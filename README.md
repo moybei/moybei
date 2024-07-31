@@ -13,6 +13,8 @@ When I'm not coding, I enjoy listening to music and watching anime girls to unwi
 My GitHub is a reflection of my curiosity and dedication to technology. Feel free to explore my projects.
 <br />
 Let's build something amazing together! 🚀
+<br />
+<br />
 
 ![alt text](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 
