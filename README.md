@@ -14,7 +14,7 @@ My GitHub is a reflection of my curiosity and dedication to technology. Feel fre
 <br />
 Let's build something amazing together! 🚀
 
-![alt text]([http://url/to/img.png](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png))
+![alt text](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 
 ---
 
